@@ -14,6 +14,7 @@ public class ImageCode {
     public ImageCode(BufferedImage image, String code) {
         this.image = image;
         this.code = code;
+        System.out.println(111);
     }
 
     public BufferedImage getImage() {
