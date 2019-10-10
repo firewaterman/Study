@@ -256,6 +256,8 @@ public class ImageCodeUtil {
 
             if (str.equalsIgnoreCase(codes)) {
                 System.out.println("验证码正确");
+                System.out.println("验证码正确");
+                System.out.println("验证码正确");
                 break;
             }
         }
