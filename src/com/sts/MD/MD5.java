@@ -14,6 +14,7 @@ public class MD5 {
         System.out.println(s1);
         System.out.println("wo修改");
         System.out.println(3333);
+        System.out.println("我"+4444);
     }
 
 
