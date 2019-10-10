@@ -16,6 +16,7 @@ public class MD5 {
         System.out.println(3333);
         System.out.println("他"+4444);
 
+        System.out.println("我"+4444);
     }
 
 
