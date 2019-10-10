@@ -13,6 +13,7 @@ public class MD5 {
         String s1 = stringMD("Aa123456");
         System.out.println(s1);
         System.out.println("wo修改");
+        System.out.println(3333);
     }
 
 
